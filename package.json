@@ -1,0 +1,34 @@
+{
+  "name": "react-smart-otp",
+  "version": "1.0.0",
+  "description": "This is the react version of the otp package",
+  "main": "SmartOtp.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkennymore/react-smart-otp.git"
+  },
+  "keywords": [
+    "OTP",
+    "Code",
+    "smart",
+    "otp",
+    "simple",
+    "otp",
+    "otp",
+    "simple",
+    "verification",
+    "code",
+    "email",
+    "verification",
+    "code"
+  ],
+  "author": "Engr Usiobaifo A Kenneth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkennymore/react-smart-otp/issues"
+  },
+  "homepage": "https://github.com/kkennymore/react-smart-otp#readme"
+}
